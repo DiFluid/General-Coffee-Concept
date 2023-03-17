@@ -1,9 +1,10 @@
 # General-Coffee-Concept
+☕️ _compile your coffee_
 
 ## Introduction
 Coffee is not just a beverage; it's an experience that can energize and enliven our day. However, to have the best coffee experience, there needs to be some fundamental knowledge and techniques behind it. This is where the General Coffee Concept (GCC) Series comes in - a series of articles that aims to help people understand their coffee better and perfect the process of making it.
 
-Throughout this series, we will try to cover all the basic concepts from result - process - prepare and much more.
+Throughout this series, we will try to cover all the basic concepts from result - process - prepare. Start from evaluating the result effeciently and then go to control and adjust the corresponding parameters in process and preparation.
 
 ![GCC Series MAP](/static/series-map.png)
 
@@ -14,13 +15,12 @@ So whether you're new to the world of coffee or an experienced barista, the GCC 
 
 ## **Section1: Result**
 _How to evaluate my coffee and find the imrpovement direction?_
- - [Brew Control Chart](/Brew-Control-Chart/Brew-Control-Chart.md)
- - [Extraction Rate - EXT]()
- - [Coffee Concentration - TDS]()
-
+ - [Brew Control Chart](/section-result/Brew-Control-Chart/index.md)
+ - [Extraction Rate - EXT](/section-result/Extraction-Rate-EXT/index.md)
+ - [Coffee Concentration - TDS](/section-result/Coffee-Concentration-TDS/index.md)
 
  ## **Section2: Process**
  WIP
 
- ## **Section3: Prepare**
+ ## **Section3: Preparation**
  WIP
