@@ -13,14 +13,21 @@ We believe that by having a sound understanding and knowledge of these concepts,
 So whether you're new to the world of coffee or an experienced barista, the GCC series has something for everyone who desires to take their coffee experience to the next level. Join us on this exciting journey as we explore the marvelous world of coffee together.
  
 
-## **Section1: Result**
+### **Section1: Result**
 _How to evaluate my coffee and find the imrpovement direction?_
  - [Brew Control Chart](/section-result/Brew-Control-Chart/index.md)
  - [Extraction Rate - EXT](/section-result/Extraction-Rate-EXT/index.md)
  - [Coffee Concentration - TDS](/section-result/Coffee-Concentration-TDS/index.md)
 
- ## **Section2: Process**
+### **Section2: Process**
  WIP
 
- ## **Section3: Preparation**
+### **Section3: Preparation**
  WIP
+
+## What DiFluid will Do?
+DiFluid will keep creating new topics and perfecting the existing ones. 
+
+Also we will works on making assisting contents (Like demo videos and better pictures) for every articles. If you want us to fill in the material, just leave that part blank and add 'TODO @DiFluid:' on it, we will routinely check every article and filling these parts.
+
+And we will periodically update the release to our platform for better viewing experience and sharing.
