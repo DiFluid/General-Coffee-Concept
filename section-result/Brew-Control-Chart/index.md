@@ -8,7 +8,7 @@ Brew Control Chart is a good tool for visualizing your brew result and point the
 
 There is already plenty of articles introducing the history of this chart, so we are not going deep in this part. You can read more about it from the articles in [reference](#reference)
 
-Today we are just focusing on these following topics:
+Today we are just focusing on how to use this map:
  - [Where am I](#where-am-i)
  - [Where to go](#how-to-read-it)
  - [Time to move](#time-to-move)
@@ -18,16 +18,18 @@ Today we are just focusing on these following topics:
 _How to get my coffee onto chart_
  
 The Brew Control Chart evaluate your coffee from two dimention:
-1. [Extraction Rate - EXT](/section-result/Extraction-Rate-EXT/index.md)
-2. [Coffee Concentration - TDS](/section-result/Coffee-Concentration-TDS/index.md)
+1. [TDS - Total Disolved Solid, represents how much ](/section-result/Coffee-Concentration-TDS/index.md)
+2. [EXT - Extraction Rate, represents how much substance you have extracted from dose](/section-result/Extraction-Rate-EXT/index.md)
 
-You can get the TDS (Total Disolved Solid) from a refractometer like DiFluid R2 Extract.
+You can get the TDS (Total Disolved Solid) easily by using a refractometer like DiFluid R2 Extract.
 
-![R2 Test](./static/R2-Test.png)
+<p align='center'>
+ <img src="./static/R2-Test.jpeg" alt="R2 Test" width="400"></img>
+</p>
 
 And EXT (Extraction Rate) could then be easily calculated as long as you have the other weight info:
 
-![EXT Function](./static/EXT-Function.png)
+`EXT = YIELD * TDS / DOSE`
 
 Now I'm going to use one of my morning brew for the demonstration for the following paragraph:
  - **Dose**: 20 Gram
@@ -88,25 +90,13 @@ Let's get back to my morning brew example, so I want to move my point rightwards
 
 Let me fall back my brew time to **2:10** and cut dose to **15 Gram**, and try it again. Indeed for demonstration, I conducted two brew with the first one decreasing the brew time only:
 
-![Decrease Brew Time]()
+![Decrease Brew Time]() <span style="color: red;">TODO: Video or GIF</span>
 
 And the second one decrease brew ratio depending on the last shot.
 
-![Decrease Brew Ratio]()
+![Decrease Brew Ratio]() <span style="color: red;">TODO: Video or GIF</span>
 
 Then you could see that the actions above all took effect and we successfully moved our step on this map. After reaching the desirable point, don't forget to take another review.
 
 ## Reference
  - [Towards a Common Coffee Control Chart](https://www.baristahustle.com/blog/towards-a-common-coffee-control-chart/)
-
-<details>
-  <summary>Click to expand!</summary>
-  
-  This is hidden by defult but can be revealed by clicking on "Click to expand!" above.
-</details>
-
-
-<span class="tooltip">
-   Hover over me
-   <span class="tooltiptext">Tooltip text</span>
-</span>
