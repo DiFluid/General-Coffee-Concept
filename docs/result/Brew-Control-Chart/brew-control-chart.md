@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="./style.css">
+---
+layout: default
+parent: Result
+nav_order: 3
+---
 
 # Brew Control Chart
 _🗺️ The treasure map to your golden coffee_
@@ -18,8 +22,8 @@ Today we are just focusing on how to use this map:
 _How to get my coffee onto chart_
  
 The Brew Control Chart evaluate your coffee from two dimention:
-1. [TDS - Total Disolved Solid, represents how much ](/section-result/Coffee-Concentration-TDS/index.md)
-2. [EXT - Extraction Rate, represents how much substance you have extracted from dose](/section-result/Extraction-Rate-EXT/index.md)
+1. [TDS - Total Disolved Solid, represents how much substance you have in your yield](../Coffee-Concentration-TDS/index.md)
+2. [EXT - Extraction Rate, represents how much substance you have extracted from dose](../Extraction-Rate-EXT/index.md)
 
 You can get the TDS (Total Disolved Solid) easily by using a refractometer like DiFluid R2 Extract.
 
